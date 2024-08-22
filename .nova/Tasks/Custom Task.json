@@ -1,0 +1,12 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "eval \"$(\/opt\/homebrew\/bin\/brew shellenv)\"\n\n# use homebrew ruby\nexport PATH=\"$(brew --prefix ruby)\/bin:$PATH\"\nexport PATH=\"$(gem environment gemdir)\/bin:$PATH\"\n\nbundle exec jekyll build\n"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "eval \"$(\/opt\/homebrew\/bin\/brew shellenv)\"\n\n# use homebrew ruby\nexport PATH=\"$(brew --prefix ruby)\/bin:$PATH\"\nexport PATH=\"$(gem environment gemdir)\/bin:$PATH\"\n\nbundle exec jekyll serve --watch\n"
+    }
+  }
+}
