@@ -86,6 +86,11 @@ div.post
   div.post blockquote p {
     padding: 0;
   }
+  
+  div.post img {
+    max-width: 100%;
+    height: auto;
+  }
 
 /* Quote Post */
 
