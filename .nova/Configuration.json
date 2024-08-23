@@ -1,5 +1,6 @@
 {
   "workspace.name" : "HN blog",
   "workspace.preview_root" : "_site",
-  "workspace.preview_url" : "http:\/\/localhost:4000"
+  "workspace.preview_type" : "custom",
+  "workspace.preview_url" : "http:\/\/localhost:4002"
 }
