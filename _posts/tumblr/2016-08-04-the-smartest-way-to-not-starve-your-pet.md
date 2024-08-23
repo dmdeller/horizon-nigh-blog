@@ -107,7 +107,7 @@ We moved recently from the east coast to the west coast. I noticed that, however
 
 And then, finally, this morning. Before the morning alarm went off, our cat started making more noise than usual. I went to check the feeder, and although it has not missed a feeding since the server problems were resolved last week, this morning the bowl was empty. I checked the app, to find this:
 
-![](http://horizon-nigh.s3.amazonaws.com/blog-media/petnet-fail.jpg)
+![](https://horizon-nigh.s3.amazonaws.com/blog-media/petnet-fail.jpg)
 
 Well, at least that’s somewhat of an improvement over the often-incorrect information that the app usually shows me. So I emailed support one more time, explaining the situation. After a few hours, they sent me this:
 

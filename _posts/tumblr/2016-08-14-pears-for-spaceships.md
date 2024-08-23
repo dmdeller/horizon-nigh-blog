@@ -39,7 +39,7 @@ For now, I am enjoying just existing in this strange new world. And for me, that
 
 See you, space cowboy.
 
-![](http://horizon-nigh.s3.amazonaws.com/blog-media/no-mans-sky.jpeg)
+![](https://horizon-nigh.s3.amazonaws.com/blog-media/no-mans-sky.jpeg)
 
 _Pictured: My starting planet. No other human besides myself, not even the game designers, has ever seen this planet before. I spent hours exploring it. I’ve since moved onto other planets, and it’s likely that no-one, including me, will ever visit it again._
 
