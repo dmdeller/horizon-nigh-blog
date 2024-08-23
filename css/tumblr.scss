@@ -1,0 +1,290 @@
+---
+---
+
+/*  */
+
+#header
+{
+  background-image: url(http://horizon-nigh.org/images/bg_header.png);
+}
+
+#badie
+{
+  background-image: url(http://horizon-nigh.org/badie.png);
+}
+
+#nav
+{
+  background-image: url(http://horizon-nigh.org/images/bg_nav.png);
+}
+
+#footer
+{
+  background-image: url(http://horizon-nigh.org/images/bg_footer.png);
+}
+
+
+div.post
+{
+  margin: 2em 0 2em 0;
+}
+
+div.date
+{
+  margin: 2em 0 2em 0;
+  color: #7f8099;
+  border-bottom: 1px solid #555566;
+  font-size: 10pt;
+  font-family: Palatino, "Times Roman", "Times New Roman", Times, serif;
+  font-variant: small-caps;
+}
+
+
+
+div.permalink
+{
+  font-size: 20px;
+  float: left;
+  position: relative;
+  left: -1.2em;
+  width: 0;
+  height: 0;
+}
+
+div.permalink a
+{
+  text-decoration: none !important;
+}
+
+p.comments_link
+{
+  font-size: 8pt;
+}
+
+div.post
+{
+  margin-bottom: 4em;
+}
+
+/* Regular Post */
+
+  div.post div.regular {
+
+  }
+  
+  div.post blockquote {
+    display: block;
+    margin-left: 10px !important;
+    padding-left: 10px !important;
+    border-left: 3px solid #fe7422 !important;
+    font-size: 14px;
+    padding-top: 0;
+    padding-bottom: 0;
+    color: #ffffb1;
+  }
+  
+  div.post blockquote p {
+    padding: 0;
+  }
+
+/* Quote Post */
+
+  div.post div.quote div.quote_text {
+    margin-left: 10px;
+    padding-left: 10px;
+    border-left: 3px solid #fe7422;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #ffffb1;
+  }
+
+  div.post div.quote div.source {
+    margin-left: 30px;
+    font-size: 8pt;
+    margin-bottom: 1em;
+  }
+
+
+/* Link Post */
+
+  div.post div.link a.link {
+
+  }
+
+/* Conversation Post */
+      
+  div.post div.conversation ul {
+    list-style-type: none;
+    margin: 0px;
+    margin-left: 10px;
+    margin-bottom: 1em;
+    padding: 0px 0px 0px 1px;
+    border-left: solid 3px #fe7422;
+  }
+
+    div.post div.conversation ul li {
+      font-size: 12px;
+      padding: 4px 10px 4px 8px;
+      margin-bottom: 1px;
+    }
+
+      div.post div.conversation ul li span.label {
+        font-size: 12px;
+        font-weight: bold;
+      }
+      
+        div.post div.conversation ul li span.user_1 {
+          color: #ff424f;
+        }
+        
+        div.post div.conversation ul li span.user_2 {
+          color: #4350ff;
+        }
+        
+        div.post div.conversation ul li span.user_3 {
+          color: #0a0;
+        }
+      
+      div.post div.conversation ul li.odd {
+        background-color: #000025;
+      }
+
+      div.post div.conversation ul li.even {
+        background-color: #000022;
+      }
+
+/* Video Post */
+
+  div.post div.video {
+    width: 500px;
+  }
+
+      .query { font-weight: bold; }
+
+div#sidebar {
+  float: right;
+  width: 200px;
+  background-color: #00002d;
+  padding: 0.75em;
+}
+
+div.sideblock
+{
+  border: 1px solid #555566;
+  padding: 0.5em 1em 0 1em;
+  width: 100%;
+  margin: 0 0 1em 0;
+}
+
+div.best-of
+{
+  h2
+  {
+    font-size: 18px;
+    margin-top: 0.25em;
+  }
+  
+  ul
+  {
+    padding-left: 0;
+    list-style-type: none;
+    
+    li
+    {
+      margin: 1em 0;
+    }
+  }
+}
+
+div#endnav {
+  text-align: center;
+  margin: 3em;
+}
+
+div.tags
+{
+  font-size: 8pt;
+  margin: 0.5em 0;
+}
+
+ul.tags
+{
+  padding: 0;
+  display: inline;
+  list-style-type: none;
+  font-size: 8pt;
+}
+
+ul.tags li
+{
+  display: inline;
+  margin: 0 0.5em;
+}
+
+.twtr-join-conv
+{
+  display: none !important;
+}
+
+.flickr
+{
+  text-align: center;
+}
+
+/* undo bootstrap stuff */
+input
+{
+  color: black;
+}
+button, html input[type=button], input[type=reset], input[type=submit]
+{
+  -webkit-appearance: default;
+  cursor: default;
+  font: default;
+  color: black;
+}
+
+div#search
+{
+  margin: 1.25em 0;
+}
+
+div#search form input[type=text]
+{
+  width: 100%;
+}
+
+
+@media (max-width: 450px)
+{
+  div#sidebar
+  {
+    float: none;
+    width: auto;
+    margin: 0.5em auto;
+  }
+  
+  div.flickr
+  {
+    display: none;
+  }
+  
+  div.best-of
+  {
+    display: none;
+  }
+  
+  div.post h2, div.link h2
+  {
+    position: relative;
+    left: 25px;
+    width: calc(100% - 25px);
+  }
+  
+  div.permalink
+  {
+    position: relative;
+    left: 0;
+    top: 3px;
+  }
+}

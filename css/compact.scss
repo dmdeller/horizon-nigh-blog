@@ -1,0 +1,81 @@
+---
+---
+
+@media (max-width: 450px)
+{
+  .if-compact
+  {
+    display: inline;
+  }
+  
+  .unless-compact
+  {
+    display: none;
+  }
+  
+  header
+  {
+    height: 100px;
+    background-size: 25px 100px;
+  }
+  
+  header #logo
+  {
+    width: 300px;
+    margin-top: 26px;
+  }
+  
+  nav
+  {
+    top: 100px;
+    height: 81.5px;
+    background-size: 25px 37.5px;
+    background-position-y: bottom;
+  }
+  
+  nav ul
+  {
+  }
+  
+  article
+  {
+    margin-top: 200px;
+  }
+  
+  img.app-store
+  {
+    width: 150px;
+    height: 55px;
+  }
+  
+  //! Home page
+  
+  article.software
+  {
+    a.app-banner
+    {
+      font-size: 14pt;
+    }
+  
+    a.app-banner img.icon
+    {
+      margin-right: 0;
+    }
+  }
+  
+  //! Project pages
+
+  article.software
+  {
+    .download-box
+    {
+      padding: 0.25em;
+      max-width: 10em;
+    }
+  
+    .download-box .link-graf
+    {
+      font-size: 1.5em;
+    }
+  }
+}

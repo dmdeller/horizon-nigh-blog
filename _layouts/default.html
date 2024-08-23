@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Horizon Nigh: {{page.title}}</title>
+    
+    <link type="text/css" rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css" />
+  
+    <link type="text/css" rel="stylesheet" href="/css/style.css" />
+    <link type="text/css" rel="stylesheet" href="/css/compact.css" />
+    <link type="text/css" rel="stylesheet" href="/css/print.css" />
+  </head>
+  
+  <body>
+    <div class="container">
+      <header>
+        <h1>
+          <img id="logo" src="/images/horizon-nigh-1x.png" srcset="/images/horizon-nigh-1x.png 1x, /images/horizon-nigh-2x.png 2x, /images/horizon-nigh-3x.png 3x, /images/horizon-nigh-4x.png 4x" width="503" height="100" alt="Horizon Nigh" />
+        </h1>
+      </header>
+      
+      <nav>
+        <ul>
+          <li><a href="https://horizon-nigh.org/">About</a></li>
+          <li><a href="https://horizon-nigh.org/software/">Software</a></li>
+          <li><a href="https://horizon-nigh.org/resume.html">Résumé</a></li>
+          <li><a href="/" class="current">Blog</a></li>
+        </ul>
+      </nav>
+      
+      <article class="blog">
+        {{content}}
+      </article>
+    </div>
+    
+    <footer>
+      <p>
+        <span class="text">v2.2 design inspired by Orbital's <i>One Perfect Sunrise</i></span>
+        <span class="unless-compact">&#x2756;</span><span class="if-compact"><br /></span>
+        <span class="text">built with <a href="http://jekyllrb.com/">Jekyll</a></span>
+        <span>&#x2756;</span>
+        <span class="text">original content &copy; 2007-{{ site.time | date: '%Y' }} <a href="mailto:david@horizon-nigh.org">D. M. Deller</a></span>
+        <span class="unless-compact">&#x2756;</span><span class="if-compact"><br /></span>
+        <span class="text">clouds breezing by&hellip;</span>
+      </p>
+    </footer>
+  </body>
+</html>

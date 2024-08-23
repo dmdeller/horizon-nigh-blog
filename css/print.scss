@@ -1,0 +1,27 @@
+---
+---
+
+@media print
+{
+  body, header, nav, article, footer
+  {
+    background: none;
+    position: static;
+    height: auto;
+  }
+  
+  #logo
+  {
+    margin-top: 1em;
+  }
+  
+  nav
+  {
+    display: none;
+  }
+  
+  article
+  {
+    margin-top: 1em;
+  }
+}
