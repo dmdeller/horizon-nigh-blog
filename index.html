@@ -2,6 +2,50 @@
 layout: home
 ---
 
+<div id="sidebar">
+  <div class="sideblock">
+      <a href="/feed.xml">
+          <img src="https://horizon-nigh.org/images/feed-icon-28x28.png" id="rss" alt="RSS"/>
+      </a>
+      <div id="search">
+        <!-- https://duckduckgo.com/?q=test&sites=blog.horizon-nigh.org -->
+          <form action="https://duckduckgo.com" method="get">
+              <input type="text" name="q" value=""/>
+              <input type="hidden" name="sites" value="blog.horizon-nigh.org">
+              <input type="submit" value="Search"/>
+          </form>
+      </div>
+      <p>
+        <a href="/archive.html">Archive</a>
+      </p>
+  </div>
+  <div class="sideblock best-of">
+    <h2>Best of</h2>
+    <ul>
+      <li>
+        <a href="/2013/10/08/justin-williams-on-third-party-alternatives-to.html">
+          The simplicity of choice</a>
+      </li>
+      <li>
+        <a href="/2012/08/05/in-defence-of-duplicate.html">
+          In defense of duplicate</a>
+      </li>
+      <li>
+        <a href="/2012/06/13/what-is-a-property.html">
+          What is a property?</a>
+      </li>
+      <li>
+        <a href="/2011/10/15/first-wegmans-in-new-england-opening-tomorrow.html">
+          First Wegmans in New England</a>
+      </li>
+      <li>
+        <a href="/2011/10/08/welcome.html">
+          Steve Jobs</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <div class="post">

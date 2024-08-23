@@ -1,0 +1,19 @@
+---
+layout: home
+---
+
+<p>
+  Please understand: This blog goes back a long time. I wrote some stupid things, and some things I no longer agree with, and there is even some overlap between the two.
+</p>
+
+<p>
+  Many of the old posts were automatically converted from a different format, so there are likely to be formatting errors.
+</p>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
