@@ -104,6 +104,10 @@ At this point, you should hopefully have a successfully imported Tumblr blog, in
 
 * The importer may occasionally continue to reference some images, or other media files, at their original Tumblr URLs. `ack media.tumblr.com` to find these. You'll want to manually download each one and then correct the URL on each post.
 
+* Any footnotes in your original posts may be somewhat broken; they still render correctly, but the links to jump back and forth between footnote and text don't seem to work any more. I haven't found a fix for this yet, other than manually redoing them all.
+
+* HTML tags for tables (and maybe other things) end up getting escaped, and probably need to be fixed by hand.
+
 ### Don't forget to write some stuff!
 
 Blogging is cool.
