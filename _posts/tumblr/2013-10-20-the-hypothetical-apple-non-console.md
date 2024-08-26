@@ -9,25 +9,31 @@ I don’t know if Apple is going to introduce a gaming-capable Apple TV this wee
 
 Here’s what I imagine it might be like in terms of specs (look at me, I’m an ‘analyst’!):
 
-<table\> <tr\> <th style="vertical-align: top"\>Current Apple TV</th\> <th style="vertical-align: top"\>Hypothetical 2013 Apple TV  
-'Good’</th\> <th style="vertical-align: top"\>Hypothetical 2013 Apple TV  
-'Better’</th\> </tr\> <tr\> <td style="vertical-align: top"\> 
-- Single-core A5 SOC
-- 512 MB RAM
-- 4 GB flash storage
-- $99
- </td\> <td style="vertical-align: top"\> 
-- Dual-core A7 SOC
-- 1 GB RAM
-- 16 GB flash storage
-- $99
- </td\> <td style="vertical-align: top"\> 
-- Dual-core A7 SOC
-- 1 GB RAM
-- 32 GB flash storage
-- Game controller
-- $149
- </td\> </tr\> </table\>
+<table> <tr> <th style="vertical-align: top; padding: 0.5em;">Current Apple TV</th> <th style="vertical-align: top; padding: 0.5em;">Hypothetical 2013 Apple TV  
+'Good’</th> <th style="vertical-align: top; padding: 0.5em;">Hypothetical 2013 Apple TV  
+'Better’</th> </tr> <tr> <td style="vertical-align: top; padding: 0.5em;"> 
+  <ul>
+<li> Single-core A5 SOC </li>
+<li> 512 MB RAM </li>
+<li> 4 GB flash storage </li>
+<li> $99 </li>
+  </ul>
+ </td> <td style="vertical-align: top; padding: 0.5em;"> 
+   <ul>
+<li> Dual-core A7 SOC </li>
+<li> 1 GB RAM </li>
+<li> 16 GB flash storage </li>
+<li> $99 </li>
+</ul>
+ </td> <td style="vertical-align: top; padding: 0.5em;"> 
+   <ul>
+<li> Dual-core A7 SOC </li>
+<li> 1 GB RAM </li>
+<li> 32 GB flash storage </li>
+<li> Game controller </li>
+<li> $149 </li>
+</ul>
+ </td> </tr> </table>
 
 Here’s why I think so, by way of a point-by-point rebuttal of [Andy Reitz’s arguments](http://redefine.dyndns.org/~andyr/blog/archives/2013/10/apple-tv-and-ga.html) (via [Gus Mueller](http://shapeof.com/archives/2013/10/andy_reitz_on_apple_tv_and_gaming.html)).
 
