@@ -25,5 +25,5 @@ The main difference between Bundler and CocoaPods is that Bundler saves you from
 
 1. I mean… what else are you going to write it in? Objective-C? Ha!&nbsp;[↩︎](#fnref:1)
 
-2. If you work with a team of developers, you probably know how difficult it can be to get everyone to use any given developer tool that isn’t part of the standard toolchain. This is also one of the reasons I like [git-subtree](http://blog.horizon-nigh.org/post/22064187559), although it looks like CocoaPod just replaced the majority of my use cases for git-subtree, at least as far as Objective-C is concerned.&nbsp;[↩︎](#fnref:2)
+2. If you work with a team of developers, you probably know how difficult it can be to get everyone to use any given developer tool that isn’t part of the standard toolchain. This is also one of the reasons I like [git-subtree](/2012/04/29/rentzsch-on-git-subtree.html), although it looks like CocoaPod just replaced the majority of my use cases for git-subtree, at least as far as Objective-C is concerned.&nbsp;[↩︎](#fnref:2)
 

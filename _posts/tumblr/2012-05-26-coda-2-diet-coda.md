@@ -7,7 +7,7 @@ tumblr_url: https://blog.horizon-nigh.org/post/23794293289/coda-2-diet-coda
 ---
 [Coda 2 + Diet Coda](http://www.panic.com/blog/2012/05/announcing-coda-2-and-introducing-diet-coda/)  
 
-I don’t link to stuff much any more unless I have something in particular to say about it–and I’m much better at critiquing than complimenting–but it didn’t seem right to break from tradition: [previously](http://blog.horizon-nigh.org/2007/04/23/panic-coda-one-window-web-development-for-mac.html-os-x), [previously](http://blog.horizon-nigh.org/post/48065704/coda-1-5).
+I don’t link to stuff much any more unless I have something in particular to say about it–and I’m much better at critiquing than complimenting–but it didn’t seem right to break from tradition: [previously](/2007/04/23/panic-coda-one-window-web-development-for-mac.html-os-x), [previously](/2008/08/30/coda-15.html).
 
 So, in just a few words: Awesome all over again.
 

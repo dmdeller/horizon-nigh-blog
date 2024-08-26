@@ -45,7 +45,7 @@ At this point in computing history, I feel like I shouldn’t really have to jus
 
 Like every other trivial software (or hardware) change we’ve ever collectively thrown a tantrum about over the past three decades, I think we’ll all find that after we get used to it, we won’t even notice it any more. Just like switching from Windows to Mac, or from the command line to a GUI, there is very little about the old way that was actually 'better’, aside from the fact that we were used to it and already understood it.
 
-So, [try finding a way to disrupt your workflow today](http://blog.horizon-nigh.org/post/8518693917), and see if you’re not better off for it. Make a radical change just because. Unlearn what you have learned. Maybe you’ll decide it’s better, and maybe you won’t; the process of experimentation, not the end result, is what matters. Train yourself to adapt to changes. That way, when the world changes out from under you, you will be able to see things for how they are, not for how they always used to be.
+So, [try finding a way to disrupt your workflow today](/2011/08/05/it-is-not-the-spoon-that-changes.html), and see if you’re not better off for it. Make a radical change just because. Unlearn what you have learned. Maybe you’ll decide it’s better, and maybe you won’t; the process of experimentation, not the end result, is what matters. Train yourself to adapt to changes. That way, when the world changes out from under you, you will be able to see things for how they are, not for how they always used to be.
 
 ## I dub thee
 

@@ -5,7 +5,7 @@ date: '2009-04-25T23:25:00-07:00'
 tags: []
 tumblr_url: https://blog.horizon-nigh.org/post/100188633/more-on-how-logitech-breaks-your-computer
 ---
-Continued from our earlier discussion ([part 1](http://linklog.horizon-nigh.org/2007/06/28/all-logitech-mac-drivers-silently-install-unsanity.html), [part 2](http://linklog.horizon-nigh.org/2007/10/29/daring-fireball-on-the-leopard-blue-screens.html)).
+Continued from our earlier discussion ([part 1](/2007/06/28/all-logitech-mac-drivers-silently-install-unsanity.html), [part 2](/2007/10/29/daring-fireball-on-the-leopard-blue-screens.html)).
 
 Read this series of Twitter posts from Wil Shipley if you’re still not convinced that you should never, ever use Logitech products (or at least, their software) with a Mac. [[1]](http://twitter.com/wilshipley/status/1617759907) [[2]](http://twitter.com/wilshipley/status/1617764796) [[3]](http://twitter.com/wilshipley/status/1617765573) [[4]](http://twitter.com/wilshipley/status/1617789347) [[5]](http://twitter.com/wilshipley/status/1617832987) [[6]](http://twitter.com/wilshipley/status/1617836772)&nbsp;(Warning: language)
 

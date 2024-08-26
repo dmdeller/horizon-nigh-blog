@@ -12,5 +12,5 @@ tumblr_url: https://blog.horizon-nigh.org/post/41105767/this-is-about-a-week-lat
 
 This is [about a week late](http://en.wikipedia.org/wiki/The_Stolen_Earth), but here’s another [lolwho](http://en.wikipedia.org/wiki/Lolcat).
 
-Previous lolwho: [[1]](http://linklog.horizon-nigh.org/2008/04/19/another-one-by-me-cf-this.html)
+Previous lolwho: [[1]](/2008/04/19/another-one-by-me-cf-this.html)
 

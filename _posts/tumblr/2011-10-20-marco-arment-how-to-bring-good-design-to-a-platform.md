@@ -13,7 +13,7 @@ _How to bring good design to a product_
 
 ‘Product’ means anything that a company produces and people want to buy. A 'platform’ means something more specific, but I think Marco’s list applies to any kind of product.
 
-If I can extend my [tortured grocery store analogy](http://blog.horizon-nigh.org/post/11499512502) just a little bit more: looking at his list, you could apply the same to Wegmans (as he implicitly applies it to Apple).
+If I can extend my [tortured grocery store analogy](/2011/10/15/first-wegmans-in-new-england-opening-tomorrow.html) just a little bit more: looking at his list, you could apply the same to Wegmans (as he implicitly applies it to Apple).
 
 This led me to realise something else: people don’t go to Wegmans to buy food. You can buy food anywhere. They go to Wegmans to buy _the experience of going to Wegmans_. Wegmans _is_ the product.
 

@@ -31,5 +31,5 @@ More concerns I have about this:
 
 I don’t necessarily think Siri is the answer to any of this, either. A voice interface would be useful, but it shouldn’t be the _only_ way to make sense of a (hypothetically) complex, fragmented interface where content is spread out across many different places with different UIs. 'Siri, help me find The Daily Show because I just don’t know where to look for it any more…’
 
-Still, all that said: Gruber’s prediction seems more grounded in reality than [mine](http://blog.horizon-nigh.org/post/11949087036), because you can see the clear path of evolution from iPad to TV. On the other hand, part of the fun of these predictions is in saying something crazy and probably being wrong.
+Still, all that said: Gruber’s prediction seems more grounded in reality than [mine](/2011/10/25/gratuitous-apple-tv-speculation.html), because you can see the clear path of evolution from iPad to TV. On the other hand, part of the fun of these predictions is in saying something crazy and probably being wrong.
 

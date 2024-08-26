@@ -15,5 +15,5 @@ I think I still prefer the feel of iPhoto, though. Like most Google things, it f
 
 But, my oh my, is it ever snappy. Hopefully this will light a fire under Apple.
 
-For a limited time only (I’m guessing), the download apparently doesn’t come with a forced install of Google’s fascist software updater. ( **Edit** : [this is incorrect](http://linklog.horizon-nigh.org/2009/01/30/google-software-update-is-basically-malware.html).)
+For a limited time only (I’m guessing), the download apparently doesn’t come with a forced install of Google’s fascist software updater. ( **Edit** : [this is incorrect](/2009/01/30/google-software-update-is-basically-malware.html).)
 

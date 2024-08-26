@@ -7,5 +7,5 @@ tumblr_url: https://blog.horizon-nigh.org/post/2811040/battlestar-galactica-to-e
 ---
 [Battlestar Galactica to end with season 4. No, really.](http://news.yahoo.com/s/nm/20070601/tv_nm/battlestar_dc)  
 
-Well [okay](http://blog.horizon-nigh.org/post/1796661) [then](http://blog.horizon-nigh.org/post/1836957). (via [/.](http://slashdot.org/article.pl?sid=07/06/01/1450248&from=rss))
+Well [okay](/2007/05/11/upcoming-fourth-season-of-battlestar-galactica-to.html) [then](/2007/05/12/battlestar-galactica-actually-not-ending-just.html). (via [/.](http://slashdot.org/article.pl?sid=07/06/01/1450248&from=rss))
 

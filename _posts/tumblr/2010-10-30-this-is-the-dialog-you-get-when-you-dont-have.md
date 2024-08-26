@@ -13,5 +13,5 @@ I assumed it would link you to the page where you can download Flash, but no. Ju
 
 * * *
 
-1. Note that this dialog does _not_ appear automatically when the page loads. [It used to.](http://tlog.horizon-nigh.org/2010/10/22/im-going-to-show-them-a-world-you-dont-want-them.html-to)&nbsp;[↩︎](#fnref:1)
+1. Note that this dialog does _not_ appear automatically when the page loads. [It used to.](/2010/10/22/im-going-to-show-them-a-world-you-dont-want-them.html-to)&nbsp;[↩︎](#fnref:1)
 

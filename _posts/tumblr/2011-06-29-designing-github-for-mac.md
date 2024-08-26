@@ -10,7 +10,7 @@ tumblr_url: https://blog.horizon-nigh.org/post/7066257980/designing-github-for-m
 ---
 [Designing GitHub for Mac](http://warpspire.com/posts/designing-github-mac/)  
 
-Very interesting background story on developing GitHub for Mac, which, as I [previously mentioned](http://tlog.horizon-nigh.org/2011/06/22/github-for-mac-launched.html), simplifies and improves upon several areas of Git’s workflow, for the better.
+Very interesting background story on developing GitHub for Mac, which, as I [previously mentioned](/2011/06/22/github-for-mac-launched.html), simplifies and improves upon several areas of Git’s workflow, for the better.
 
 It contains an interesting point, which I had been thinking about, but forgot to mention:
 

@@ -11,5 +11,5 @@ The video output sounds very nice, although the PSP’s screen is nice enough (a
 
 What it really needs is to be more comfortable to hold. It’s rather difficult to do so for any prolonged period of time. I suppose the new lightness might help with that a little.
 
-And it goes without saying that the new model will have even more tricks included to stop you from running [unapproved](http://linklog.horizon-nigh.org/post/1816434) software.
+And it goes without saying that the new model will have even more tricks included to stop you from running [unapproved](/2007/05/12/psp2-still-coming.html) software.
 

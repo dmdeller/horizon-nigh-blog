@@ -21,7 +21,7 @@ The original point of this entry was _not_ to answer the above question–it was
 
 **Original entry:**
 
-When I was writing [this post](http://tlog.horizon-nigh.org/2010/08/17/james-goslings-interesting-aside.html), I wanted to insert a footnote about the ‘first-class citizen’ reference. I’ve struggled with this before with [Tumblr](http://www.tumblr.com): there’s no easily apparent way to do this through the [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) editor, and writing the HTML by hand would be so laborious. Eventually, I gave up and posted it without the information I would have put in the footnote, because it was too much trouble.
+When I was writing [this post](/2010/08/17/james-goslings-interesting-aside.html), I wanted to insert a footnote about the ‘first-class citizen’ reference. I’ve struggled with this before with [Tumblr](http://www.tumblr.com): there’s no easily apparent way to do this through the [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) editor, and writing the HTML by hand would be so laborious. Eventually, I gave up and posted it without the information I would have put in the footnote, because it was too much trouble.
 
 But I was reading [this blog post](http://www.marco.org/985141775) by Marco Arment, one of the creators of Tumblr, and noticed he had very nice footnotes. A glance at his HTML source code shows they are fairly obviously automatically-generated. So how does he do it?
 

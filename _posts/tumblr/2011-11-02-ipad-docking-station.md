@@ -11,5 +11,5 @@ via [Cabel](http://twitter.com/Cabel/status/131798714489638912):
 
 > This is like a brand-new, unexplored universe of “Totally Missing the Point”
 
-[Previously.](http://blog.horizon-nigh.org/post/10673495552)
+[Previously.](/2011/09/25/switcheasy-canvas-case-for-ipad-2.html)
 

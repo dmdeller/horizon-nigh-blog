@@ -5,7 +5,7 @@ date: '2011-11-28T14:37:00-08:00'
 tags: []
 tumblr_url: https://blog.horizon-nigh.org/post/13462195045/an-easier-way-to-search-duckduckgo-from-safari
 ---
-I [previously](http://blog.horizon-nigh.org/post/12424404395) wrote about a workaround I made to replace the Yahoo search in Safari with DuckDuckGo, my new favourite search engine. ([Other browsers](http://help.duckduckgo.com/customer/portal/articles/216425-browsers) don’t need workarounds.)
+I [previously](/2011/11/06/script-to-search-duckduckgo-from-the-safari-search-bar.html) wrote about a workaround I made to replace the Yahoo search in Safari with DuckDuckGo, my new favourite search engine. ([Other browsers](http://help.duckduckgo.com/customer/portal/articles/216425-browsers) don’t need workarounds.)
 
 An unfortunate complexity of the method I wrote about was that you needed to run your own web server. But I emailed [Yegg](http://ye.gg), the founder of DuckDuckGo, explaining what I did, and he was interested in helping on their end to make this easier.
 
