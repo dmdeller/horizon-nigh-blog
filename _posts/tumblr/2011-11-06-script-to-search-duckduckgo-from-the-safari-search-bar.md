@@ -5,7 +5,7 @@ date: '2011-11-06T12:22:00-08:00'
 tags: []
 tumblr_url: https://blog.horizon-nigh.org/post/12424404395/script-to-search-duckduckgo-from-the-safari-search-bar
 ---
-_ **Update:** There’s now an [easier way to do this](http://blog.horizon-nigh.org/2011/11/28/an-easier-way-to-search-duckduckgo-from-safari.html)._
+_ **Update:** There’s now an [easier way to do this](/2011/11/28/an-easier-way-to-search-duckduckgo-from-safari.html)._
 
 [DuckDuckGo](http://duckduckgo.com) is a promising new search engine, especially if the way Google is [bubbling](http://dontbubble.us) and [tracking](http://donttrack.us) you is starting to drive you crazy like it is to me.
 

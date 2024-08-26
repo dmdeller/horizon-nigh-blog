@@ -29,7 +29,7 @@ I don’t know if this argument would hold up in a secret court, especially agai
 
 Again, it’s fascinating to me that Apple chose to design it this way, when they could have much more easily gone with the same trivial SSL implementation that most other companies use<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, which holds up against most third-party attackers, but not government intervention. And they didn’t do it for marketing reasons: nowhere have Apple advertised or even mentioned the security of iMessage, except in direct response to public criticism. We’ll never really know why, of course.
 
-_Previously: [[1]](http://blog.horizon-nigh.org/2013/10/17/more-on-imessage-encryption.html), [[2]](http://blog.horizon-nigh.org/2013/06/26/can-apple-read-your-imessages.html), [[3]](http://blog.horizon-nigh.org/2013/06/19/imessage-and-facetime-are-end-to-end-encrypted.html)_
+_Previously: [[1]](/2013/10/17/more-on-imessage-encryption.html), [[2]](/2013/06/26/can-apple-read-your-imessages.html), [[3]](/2013/06/19/imessage-and-facetime-are-end-to-end-encrypted.html)_
 
 * * *
 

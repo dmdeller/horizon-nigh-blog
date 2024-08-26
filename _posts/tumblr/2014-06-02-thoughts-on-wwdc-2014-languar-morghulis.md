@@ -7,7 +7,7 @@ tumblr_url: https://blog.horizon-nigh.org/post/87654173562/thoughts-on-wwdc-2014
 ---
 ### Surprise, Surprise
 
-In my [wish list](http://blog.horizon-nigh.org/2014/06/01/wwdc-2014-wish-list.html), I put a bunch of things that I thought were unlikely but still hoped for. But the theme of today’s keynote, for me, was things that I had been having problems with for years, but I thought were so far out of the realm of possibility that it didn’t even occur to me to _wish_ for them. Which is not to say that I got everything I wanted–far from it. But many of the things they did announce were genuinely delightful.
+In my [wish list](/2014/06/01/wwdc-2014-wish-list.html), I put a bunch of things that I thought were unlikely but still hoped for. But the theme of today’s keynote, for me, was things that I had been having problems with for years, but I thought were so far out of the realm of possibility that it didn’t even occur to me to _wish_ for them. Which is not to say that I got everything I wanted–far from it. But many of the things they did announce were genuinely delightful.
 
 ### [Swift](https://developer.apple.com/swift/)
 

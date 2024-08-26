@@ -11,5 +11,5 @@ Nice.
 
 > At 70,000 square feet, the Newton store will be the smallest Wegmans built in a decade, although it’s still larger than many New England supermarkets.
 
-[Previously.](http://blog.horizon-nigh.org/2011/10/20/marco-arment-how-to-bring-good-design-to-a-platform.html) [Previously.](http://blog.horizon-nigh.org/2011/10/15/first-wegmans-in-new-england-opening-tomorrow.html)
+[Previously.](/2011/10/20/marco-arment-how-to-bring-good-design-to-a-platform.html) [Previously.](/2011/10/15/first-wegmans-in-new-england-opening-tomorrow.html)
 

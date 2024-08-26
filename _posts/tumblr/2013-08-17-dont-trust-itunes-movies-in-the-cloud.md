@@ -7,7 +7,7 @@ tumblr_url: https://blog.horizon-nigh.org/post/58507809700/dont-trust-itunes-mov
 ---
 [Don’t Trust iTunes Movies in the Cloud](http://danhon.com/2013/02/13/dont-trust-itunes-movies-in-the-cloud/)  
 
-I wondered about the hypothetical situation described in this article [at one point](http://blog.horizon-nigh.org/2012/12/14/itunes-and-quality-control-problems.html#fn:p37913350748-4), but I thought, nah, that couldn’t possibly be how it works.
+I wondered about the hypothetical situation described in this article [at one point](/2012/12/14/itunes-and-quality-control-problems.html#fn:p37913350748-4), but I thought, nah, that couldn’t possibly be how it works.
 
 It is.
 

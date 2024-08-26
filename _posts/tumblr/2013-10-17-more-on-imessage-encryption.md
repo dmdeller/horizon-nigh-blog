@@ -7,5 +7,5 @@ tumblr_url: https://blog.horizon-nigh.org/post/64295048047/more-on-imessage-encr
 ---
 [More on iMessage encryption](http://blog.quarkslab.com/imessage-privacy.html)  
 
-[Previously.](http://blog.horizon-nigh.org/2013/06/26/can-apple-read-your-imessages.html)
+[Previously.](/2013/06/26/can-apple-read-your-imessages.html)
 

@@ -7,5 +7,5 @@ tumblr_url: https://blog.horizon-nigh.org/post/87699465797/duckduckgo-announceme
 ---
 [DuckDuckGo announcement: Will be in iOS 8 and OS X 10.10](https://duck.co/blog/safari)  
 
-I’ve been waiting for this for a [long time](http://blog.horizon-nigh.org/2011/11/28/an-easier-way-to-search-duckduckgo-from-safari.html).
+I’ve been waiting for this for a [long time](/2011/11/28/an-easier-way-to-search-duckduckgo-from-safari.html).
 

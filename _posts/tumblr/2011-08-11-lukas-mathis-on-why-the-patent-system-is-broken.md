@@ -9,5 +9,5 @@ tumblr_url: https://blog.horizon-nigh.org/post/8775318375/lukas-mathis-on-why-th
 
 Excellent, clear, and concise summary.
 
-Also a much better response to Gruber [than I wrote](http://blog.horizon-nigh.org/2011/08/03/gruber-on-google-on-patents-and-products.html).
+Also a much better response to Gruber [than I wrote](/2011/08/03/gruber-on-google-on-patents-and-products.html).
 
