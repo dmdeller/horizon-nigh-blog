@@ -6,7 +6,7 @@
     },
     "run" : {
       "enabled" : true,
-      "script" : "eval \"$(\/opt\/homebrew\/bin\/brew shellenv)\"\n\n# use homebrew ruby\nexport PATH=\"$(brew --prefix ruby)\/bin:$PATH\"\nexport PATH=\"$(gem environment gemdir)\/bin:$PATH\"\n\nbundle exec jekyll serve --watch --port 4002\n"
+      "script" : "eval \"$(\/opt\/homebrew\/bin\/brew shellenv)\"\n\n# use homebrew ruby\nexport PATH=\"$(brew --prefix ruby)\/bin:$PATH\"\nexport PATH=\"$(gem environment gemdir)\/bin:$PATH\"\n\nbundle exec jekyll serve --watch --port 4002 --drafts\n"
     }
   }
 }
