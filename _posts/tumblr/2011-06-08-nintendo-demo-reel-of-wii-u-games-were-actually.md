@@ -11,5 +11,5 @@ tumblr_url: https://blog.horizon-nigh.org/post/6322365011/nintendo-demo-reel-of-
 
 I know [bullshot](http://www.webcitation.org/query?url=http%3A%2F%2Fwww.penny-arcade.com%2Fcomic%2F2005%2F09%2F12%2F&date=2011-06-08) is ubiquitous in the industry, but… aw geez, Nintendo.
 
-![](https://64.media.tumblr.com/tumblr_lmhbu573Pd1qz4kpfo1_500.jpg)
+![](/tumblr_files/tumblr_lmhbu573Pd1qz4kpfo1_500.jpg)
 

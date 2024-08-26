@@ -13,11 +13,11 @@ The root of the problem with ‘scareware’ like Mac Defender is the ability of
 
 Users are used to ignoring dialogs filled with screens of vaguely-worded text if they already have an idea in their mind that they urgently need to do something (such as print a report, see this funny thing their friend just sent them, or rid their beloved computer of an evil threat). So when they see something like this, may not quite register that anything is odd:
 
-![](https://64.media.tumblr.com/tumblr_llu1owGMPr1qz4kpf.png)
+![](/tumblr_files/tumblr_llu1owGMPr1qz4kpf.png)
 
 I think something more like this<sup id="fnref:hasty"><a href="#fn:hasty" class="footnote-ref" role="doc-noteref">1</a></sup> could go a long way in helping to quickly dispel the notion that faked downloads have anything to do with Apple, their computer, or a real threat, while minimally intruding upon legitimate software or ease of use:
 
-![](https://64.media.tumblr.com/tumblr_llu2x37qNo1qz4kpf.png)
+![](/tumblr_files/tumblr_llu2x37qNo1qz4kpf.png)
 
 The 'unlocked’ icon and message would appear when the installer isn’t digitally signed. Signing is already present in Mac OS X and has been for several versions, although it’s mostly unused.
 
@@ -27,7 +27,7 @@ I also believe, as clearly does Apple<sup id="fnref:open-safe"><a href="#fn:open
 
 To address the Happy Path: if the installer is signed, this would be shown instead:
 
-![](https://64.media.tumblr.com/tumblr_llu2xgzaM41qz4kpf.png)
+![](/tumblr_files/tumblr_llu2xgzaM41qz4kpf.png)
 
 Of course, one possible phishing vector is the company name, which I’ve seen exploited in the past on SSL certificates. Perhaps the solution here is that whoever signs the certificates makes sure it’s a registered corporation or verified individual’s name; perhaps the certificates even have to come from Apple itself. There are a few ways that it could be done, but it seems like the risk could be mitigated.
 
@@ -35,7 +35,7 @@ Of course, one possible phishing vector is the company name, which I’ve seen e
 
 **Update 2011-05-31:** I wanted to clarify a point, now that Apple has [updated](http://www.webcitation.org/query?url=http%3A%2F%2Fwww.macrumors.com%2F2011%2F05%2F31%2Fapple-addresses-mac-defender-threat-with-security-update-2011-003-for-snow-leopard%2F&date=2011-05-31) Mac OS X to show this dialog for Mac Defender:
 
-![](https://64.media.tumblr.com/tumblr_lm3dtc0P7m1qz4kpf.png)
+![](/tumblr_files/tumblr_lm3dtc0P7m1qz4kpf.png)
 
 This dialog has already been present, for other specific types of malware, since 10.6.0.
 
