@@ -28,7 +28,7 @@ I’ve been thinking lately about software I enjoy using, as contrasted with sof
 
 It’s worth noting that, in many cases (or even most cases), software exhibits behaviors from both categories.
 
-I think it’s important for users to think about behaviors they want to see, or don’t want to see, in the software the use; this helps us make conscious decisions about which software we choose to use, or not use. I think it’s also important for developers to think carefully about their choices, and in doing so, to strive to make software they can be proud of.
+I think it’s important for users to think about behaviors we want to see, or don’t want to see, in the software we use; this helps us make conscious decisions about which software we choose to use, or not use. I think it’s also important for developers to think carefully about their choices, and in doing so, to strive to make software they can be proud of.
 
 [Version 1.0.1; 2024-09-19]
 
