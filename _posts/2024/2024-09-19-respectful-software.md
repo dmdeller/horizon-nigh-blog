@@ -6,7 +6,7 @@ tags:
 ---
 I’ve been thinking lately about software I enjoy using, as contrasted with software that seems like a struggle to use; and why that is.
 
-One way to look at this is through the lens of **respect**: Did the developer of this software have my interests in mind? Is the software trying to help me? Or does the software treat me as resource that ultimately benefits someone else? Basically, do I feel that the software behaves in a way that is respectful to me? Here are some things I look for to try to answer these questions.
+One way to look at this is through the lens of **respect**: Did the developer of this software have my interests in mind? Is the software trying to help me? Or does the software treat me as a resource that ultimately benefits someone else? Basically, do I feel that the software behaves in a way that is respectful to me? Here are some things I look for to try to answer these questions.
 
 ## Respectful software:
 
