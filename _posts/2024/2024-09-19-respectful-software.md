@@ -25,13 +25,13 @@ One way to look at this is through the lens of **respect**: Did the developer of
 - Causes frequent and dynamic changes to the UI which prevent the user from learning where expected functionality resides, and which impede the user from successfully repeating their previous accomplishments
 - Implements and presents unsolicited content based on recommendation algorithms, instead of providing tools for serving the user’s intentional requests for specified content
 - Overloads high-value UI signals (such as notifications or “new” badges) which perform an essential function (communications from family and friends, time-sensitive business concerns, etc.) in combination with content that has low value or negative value to the user (advertisements, memes, engagement solicitation, etc.); and in doing so, prevents the user from easily recognizing the difference between the two
-- Employs language like “remind me later” or “I like paying full price” which attempts to impose a particular intent or frame of mind on the user, instead of trying to understand the user’s genuine desires and concerns
+- Refers to ostensibly user-initiated actions with language like “remind me later” or “I like paying full price”, while denying access to meaningful alternative choices, which attempts to impose a particular intent or frame of mind on the user, instead of trying to understand the user’s genuine desires and concerns
 - Attempts to maximize the amount of time the user spends using the software; uses psychological manipulation to persuade the user to spend more of their valuable time than the user intended to spend; monetizes the user’s time, data, and/or existence.
 
 It’s worth noting that, in many cases (or even most cases), software exhibits behaviors from both categories.
 
 I think it’s important for users to think about behaviors we want to see, or don’t want to see, in the software we use; this helps us make conscious decisions about which software we choose to use, or not use. I think it’s also important for developers to think carefully about their choices, and in doing so, to strive to make software they can be proud of.
 
-[Version 1.0.3; 2024-09-19]
+[Version 1.0.4; 2024-09-19]
 
 [1]: https://en.wikipedia.org/wiki/Affordance
