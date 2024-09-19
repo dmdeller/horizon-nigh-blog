@@ -4,7 +4,9 @@ title: "What does respectful software look like?"
 tags:
   - software development
 ---
-I’ve been thinking lately about software I enjoy using, as contrasted with software that seems like a struggle to use; and why that is. Here are some thoughts about what I like to see, and what I don’t like. (I wrote this rather quickly, so I may come back and revisit it after thinking about it some more.)
+I’ve been thinking lately about software I enjoy using, as contrasted with software that seems like a struggle to use; and why that is.
+
+One way to look at this is through the lens of **respect**: Did the developer of this software have my interests in mind? Is the software trying to help me? Or does the software treat me as resource that ultimately benefits someone else? Basically, do I feel that the software behaves in a way that is respectful to me? Here are some things I look for to try to answer these questions.
 
 ## Respectful software:
 
@@ -30,6 +32,6 @@ It’s worth noting that, in many cases (or even most cases), software exhibits 
 
 I think it’s important for users to think about behaviors we want to see, or don’t want to see, in the software we use; this helps us make conscious decisions about which software we choose to use, or not use. I think it’s also important for developers to think carefully about their choices, and in doing so, to strive to make software they can be proud of.
 
-[Version 1.0.2; 2024-09-19]
+[Version 1.0.3; 2024-09-19]
 
 [1]: https://en.wikipedia.org/wiki/Affordance
