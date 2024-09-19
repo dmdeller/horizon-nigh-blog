@@ -24,12 +24,12 @@ I’ve been thinking lately about software I enjoy using, as contrasted with sof
 - Implements and presents unsolicited content based on recommendation algorithms, instead of providing tools for serving the user’s intentional requests for specified content
 - Overloads high-value UI signals (such as notifications or “new” badges) which perform an essential function (communications from family and friends, time-sensitive business concerns, etc.) in combination with content that has low value or negative value to the user (advertisements, memes, engagement solicitation, etc.), preventing the user from easily recognizing the difference between the two
 - Employs language like “remind me later” or “I like paying full price” which attempts to impose a particular intent or frame of mind on the user, instead of trying to understand the user’s genuine desires and concerns
-- Attempts to maximize the amount of time the user spends using the software; uses psychological manipulation to persuade the user to spend more of their valuable time than the user intended to spend; monetizes the user’s time.
+- Attempts to maximize the amount of time the user spends using the software; uses psychological manipulation to persuade the user to spend more of their valuable time than the user intended to spend; monetizes the user’s time, data, and/or existence.
 
 It’s worth noting that, in many cases (or even most cases), software exhibits behaviors from both categories.
 
 I think it’s important for users to think about behaviors we want to see, or don’t want to see, in the software we use; this helps us make conscious decisions about which software we choose to use, or not use. I think it’s also important for developers to think carefully about their choices, and in doing so, to strive to make software they can be proud of.
 
-[Version 1.0.1; 2024-09-19]
+[Version 1.0.2; 2024-09-19]
 
 [1]: https://en.wikipedia.org/wiki/Affordance
